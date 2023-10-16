@@ -1,4 +1,36 @@
+:root {
+	--bgclr:   #CED8DE;
+	--txtclr:  #081009;
+//	--artclr:  #E6E4DF;
+//	--hdgclr:  #935A5A;
+	--linkclr: #3F573E;
+	--linkvis: #7892A0;
+//	--prebg:   #000000;
+//	--pretxt:  #FFFFFF;
+}
 body { 
+	color: var(--txtclr);
+	background-color: var(--bgclr);
+}
+a:link    { color: var(--txtclr); }
+a:active  { color: var(--linkclr); }
+a:visited { color: var(--linkvis); }
+a { text-decoration: underline; }
+a:hover { text-decoration: none; }
+
+.nav { 
+	display: flex;
+	justify-content: space-between;
+}
+.center { 
 	display: flex;
 	justify-content: center;
+}
+.center-text {
+	text-align: justify;
+	text-justify: inter-word;
+	max-width:50em;
+	margin: auto;
+	padding: 2em;
+	//background-color: var(--artclr);
 }
