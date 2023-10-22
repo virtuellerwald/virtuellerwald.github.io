@@ -34,3 +34,17 @@ a:hover { text-decoration: none; }
 	padding: 2em;
 	//background-color: var(--artclr);
 }
+
+.tree {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.tree img {
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	cursor: pointer;
+}
+
