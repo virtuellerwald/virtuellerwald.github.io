@@ -17,7 +17,8 @@ The site must calm down people in that society where everything have to be fast.
     - roots: lore+ examples
     - stem: theory
     - leafs: practice
-    - bloom: real world application 
+    - bloom: real world application
+- inspiration: https://i0.wp.com/www.tuitionwithjason.sg/wp-content/uploads/2020/05/map-of-mathematics-optimize.jpg
 
 # QUESTIONS
 - what are trees (lesson, sub-lesson, chapter???)
