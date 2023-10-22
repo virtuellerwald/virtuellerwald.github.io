@@ -1,7 +1,7 @@
 # Make a plan 
 
 # PLAN 
-1. make minimal working example 
+1. make minimal working example (back button)
 2. make multi-lang
 3. make beautiful
 4. make easy to create new lesson 
