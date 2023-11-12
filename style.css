@@ -7,6 +7,8 @@
 	--linkvis: #7892A0;
 //	--prebg:   #000000;
 //	--pretxt:  #FFFFFF;
+    --green:   #008000;
+    --brown:   #804000;
 }
 body { 
 	color: var(--txtclr);
@@ -46,5 +48,10 @@ a:hover { text-decoration: none; }
 	height: 200px;
 	margin: 10px;
 	cursor: pointer;
+}
+
+.wald div{
+    background-color: var(--green);
+    color: var(--brown);
 }
 
