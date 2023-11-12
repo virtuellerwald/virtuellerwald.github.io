@@ -8,6 +8,11 @@
   - make a minimal course (Content)
     - blatt der Geschichte auf Deutsch (J)
     - blatt der Geschichte auf Francais (S)
+    - 4 Bäume:
+      - Algebra
+      - Trigonometrie
+      - Differential
+      - Integration
 3. make multi-lang
 4. make beautiful
 5. make easy to create new lesson 
