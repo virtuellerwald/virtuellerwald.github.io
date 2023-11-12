@@ -2,10 +2,14 @@
 
 # PLAN 
 1. make minimal working example (back button)
-2. make multi-lang
-3. make beautiful
-4. make easy to create new lesson 
-5. make easy to create new course 
+  - make it beautiful
+    - remove background from plants (S)
+    - css for wald/baum/blatt (J) 
+  - make a minimal course (Content) 
+3. make multi-lang
+4. make beautiful
+5. make easy to create new lesson 
+6. make easy to create new course 
 
 # IDEAS: 
 I want to encourage people for being more patient through this site. When you are a farmer it is a virtue that you learn.
