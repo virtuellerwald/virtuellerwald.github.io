@@ -3,8 +3,8 @@
 # PLAN 
 1. make minimal working example (back button)
   - make it beautiful
-    - remove background from plants (S)
-    - css for wald/baum/blatt (J) 
+    - remove background from plants/ new pixel plants (J)
+    - css for wald/baum/blatt (S)
   - make a minimal course (Content) 
 3. make multi-lang
 4. make beautiful
