@@ -1,12 +1,8 @@
 :root {
 	--bgclr:   #CED8DE;
 	--txtclr:  #081009;
-//	--artclr:  #E6E4DF;
-//	--hdgclr:  #935A5A;
 	--linkclr: #3F573E;
 	--linkvis: #7892A0;
-//	--prebg:   #000000;
-//	--pretxt:  #FFFFFF;
     --green:   #008000;
     --brown:   #804000;
 }
@@ -34,7 +30,6 @@ a:hover { text-decoration: none; }
 	max-width:50em;
 	margin: auto;
 	padding: 2em;
-	//background-color: var(--artclr);
 }
 
 .tree {
